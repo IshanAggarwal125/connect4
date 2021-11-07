@@ -1,0 +1,14 @@
+VERTICAL_LINE = 8
+HORIZONTAL_LINE = 7
+
+WIDTH = 700
+HEIGHT = 700
+
+Xcoor = 2
+Ycoor = 98
+
+ROWS = 7
+COLS = 7
+
+BLANK_STRING = "--"
+
